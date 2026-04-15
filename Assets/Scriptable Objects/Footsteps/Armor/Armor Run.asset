@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a5031083e54b7b94075ffc5a4681c6, type: 3}
+  m_Name: Armor Run
+  m_EditorClassIdentifier: Assembly-CSharp::Player_System.Audio.Misc.AudioPack
+  clips:
+  - {fileID: 8300000, guid: 059abb865b1a22b489861fb25372fb03, type: 3}
+  - {fileID: 8300000, guid: faf149f9ac06c014eba30b8a4b8e5a54, type: 3}
+  - {fileID: 8300000, guid: 3405cd4074a24984e9497689a9bbfc21, type: 3}
+  - {fileID: 8300000, guid: 9e8bfb9fc3239f241a73d4bcb3315a04, type: 3}
+  - {fileID: 8300000, guid: ddc48063e29d2d34fa26f26dd327f830, type: 3}
+  - {fileID: 8300000, guid: 4f79f0ba8574cbb45a8a1f50a97d7b13, type: 3}
+  - {fileID: 8300000, guid: 78ecf6cacbc2b844c87ec977c68b72fa, type: 3}
+  - {fileID: 8300000, guid: b3344859bbc5d404eb40283ffde8886d, type: 3}
+  - {fileID: 8300000, guid: 0ad27f6f71588614980de5e4731eb444, type: 3}
+  - {fileID: 8300000, guid: 4bf48a6631e570644beb9f7e50ad9070, type: 3}
+  - {fileID: 8300000, guid: 1469a17cf19e70a48aed929a2813b7cc, type: 3}
+  - {fileID: 8300000, guid: a3127f33bd334c849a5f79b51f82b0b2, type: 3}
+  - {fileID: 8300000, guid: da3a32f63e0163944b0e7eea7ac42ed9, type: 3}
+  - {fileID: 8300000, guid: 977d0f232cdf3a94d80c04950be16699, type: 3}
+  - {fileID: 8300000, guid: d87460905242347469ee860c32e886b6, type: 3}
+  - {fileID: 8300000, guid: 8016152b2e71d0d439a6a236aa9cee0b, type: 3}
+  - {fileID: 8300000, guid: 07f33ec75ac0d3e4f8f9f04d80c5b61b, type: 3}
+  - {fileID: 8300000, guid: eef822dfda95e414aae88dec93d370e7, type: 3}
+  - {fileID: 8300000, guid: c0bb2fcac6568ee489e58a8450db17ae, type: 3}
+  - {fileID: 8300000, guid: 2702f9c2e22831841b1d4aa7157682ff, type: 3}
+  - {fileID: 8300000, guid: eb702441ff2932a4d95445c2c85dc253, type: 3}

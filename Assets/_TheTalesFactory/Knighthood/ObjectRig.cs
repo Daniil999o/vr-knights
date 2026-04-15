@@ -1,0 +1,1 @@
+﻿using UnityEngine;public class ObjectRig : MonoBehaviour{    [SerializeField] private GameObject childObj;    [SerializeField] private GameObject parentObj;    private void Awake() {        childObj.transform.parent = parentObj.transform;    }}

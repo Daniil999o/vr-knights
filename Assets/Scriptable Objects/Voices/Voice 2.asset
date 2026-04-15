@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6b89d161094b8a9521f16baca825cd, type: 3}
+  m_Name: Voice 2
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterVoiceSO
+  voiceName: Voice 2
+  hitClips:
+  - {fileID: 8300000, guid: 22347abb186f9294baded3b8184fc048, type: 3}
+  - {fileID: 8300000, guid: 6ddc54648a41778498b9f245ec55bd3a, type: 3}
+  - {fileID: 8300000, guid: 04d33fe904f3fee47bf857f37f79d0bf, type: 3}
+  - {fileID: 8300000, guid: 7840e0fe9f0b6a14393a35925839a084, type: 3}
+  - {fileID: 8300000, guid: 6c59dbffd27b58c49885406956de3c9f, type: 3}
+  - {fileID: 8300000, guid: 02554f212e860c540a8cb9af59cdfd87, type: 3}
+  - {fileID: 8300000, guid: 9272b4fc0cf39f24f9d83d0d82049fd9, type: 3}
+  - {fileID: 8300000, guid: 17b15cb8cbd5e7c44a504109467a2413, type: 3}
+  dieClips:
+  - {fileID: 8300000, guid: bec27d69183d36147a9433bc4326a432, type: 3}
+  - {fileID: 8300000, guid: b6970b3414c1894439be67440ecd0c76, type: 3}
+  - {fileID: 8300000, guid: 6919082d14e9d2148bfd349d30c6afce, type: 3}
+  - {fileID: 8300000, guid: 52cf4d16071fa064d9bcb6f6f5bb95f1, type: 3}
+  attackClips:
+  - {fileID: 8300000, guid: 66a524354cf81d14190e191c1ee95474, type: 3}
+  - {fileID: 8300000, guid: d3c220bf5daff9a408ea7d2cf662d4d0, type: 3}
+  - {fileID: 8300000, guid: 63de121f10034e744b8854cda8882701, type: 3}
+  - {fileID: 8300000, guid: 32085172dc16843479c4ddaeb6dbfa82, type: 3}
+  - {fileID: 8300000, guid: 044c6346f819fa54b938737d61f62ebe, type: 3}
+  fightClips:
+  - {fileID: 8300000, guid: a1b639861d21e6b408c9e8dd8a4d32a5, type: 3}
+  - {fileID: 8300000, guid: 459f7ea137e4fcb44bdf231654865d71, type: 3}
+  - {fileID: 8300000, guid: dc05c273ddd0b2143b6f0a76ce6cb0de, type: 3}
+  - {fileID: 8300000, guid: 6018e8c0cf2618e408a9b3135b020961, type: 3}
+  - {fileID: 8300000, guid: 8784edcf0ea9a504db395705a81a2d38, type: 3}

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46dd3d3a06654f3fad378fd866c4a73f, type: 3}
+  m_Name: Effects Pool
+  m_EditorClassIdentifier: Assembly-CSharp::EffectConfig
+  slashEffects:
+    low: {fileID: 7277223940166537486, guid: 5040d96826dc8c742b89459e3c7c1b20, type: 3}
+    medium: {fileID: 8208761000051790804, guid: 6c3eb7b6d3abdff4788ac825c564f5ab, type: 3}
+    high: {fileID: 5498926017329173973, guid: d3d3b37d42542e9468621727a62b9e62, type: 3}
+  arrowEffects:
+    low: {fileID: 8849548118003306140, guid: fa0ca986f7208c94280caec99798845c, type: 3}
+    medium: {fileID: 2636441409086893361, guid: 45ebf8276e61d8b43ba8d8ad25150586, type: 3}
+    high: {fileID: 7922002400312727382, guid: f164f1c91686c194da13d504a3f06b47, type: 3}
+  surfacesByType:
+    m_Keys: 0000000001000000020000000300000004000000
+    m_Values:
+    - serializedVersion: 2
+      m_Bits: 64
+    - serializedVersion: 2
+      m_Bits: 32768
+    - serializedVersion: 2
+      m_Bits: 663808
+    - serializedVersion: 2
+      m_Bits: 65536
+    - serializedVersion: 2
+      m_Bits: 2048
+  impactDirtPrefab: {fileID: 4966886432401292762, guid: 6a218812a794fdc49af6e9d4d6e33f29, type: 3}
+  impactStonePrefab: {fileID: 6748697288805191910, guid: e2a87b51bd79a194d85e68a8004e98bb, type: 3}
+  impactConcretePrefab: {fileID: 372504479659790894, guid: 68130b1ccc55693488431d549d05d560, type: 3}
+  impactMetalPrefab: {fileID: 9138889638844282055, guid: 630cf1af1da618a41a653455fd58a88e, type: 3}
+  impactWoodPrefab: {fileID: 2596844456027412250, guid: de48100187e7fcb488d4959f439e80f2, type: 3}
+  initialPoolSize: 5
+  maxPoolSize: 20
+  autoDespawnTime: 30

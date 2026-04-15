@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bbb7fe46a1ad266029b2fee19, type: 3}
+  m_Name: PublisherReadme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 64e04fe0c0f07d14f90626ecfc8a4df8, type: 3}
+  title: The Tales Factory
+  sections:
+  - heading: Read Me
+    text: Thank your for downloading our assets. ||| Please note, to avoid cloth layers problems on KnightBody and Coat Of Arms, you have to switch materials type. For instance, if you want a knight wearing a coat of arms, you have to put on the Knightbody_LODs meshes, the alpha version of the material. And if you want to equip the chainmail over the coat of arm, you have to do the same with coat of arms s material. Theses cut off materials are located in a folder named AlphaVersion. ||| To customize colors of knight, chaperon, coat of arm, flags, shields and labry, use .psd files. ||| If you notice bugs or if you have remark about our work, do not hesitate to 
+    linkText: Contact us
+    url: https://connect.unity.com/u/the-tales-factory
+  - heading: Follow us 
+    text: To stay informed about our next free content
+    linkText: Youtube
+    url: https://www.youtube.com/channel/UCLQKfrOXz6o426NQiFqP1vA
+  - heading: 
+    text: 
+    linkText: Instagram
+    url: https://www.instagram.com/thetalesfactory/
+  - heading: 
+    text: 
+    linkText: Facebook
+    url: https://www.facebook.com/The-Tales-Factory-294882054509299
+  - heading: Support
+    text: "To get free AAA content, please support us"
+    linkText: I want to support The Tales Factory! 
+    url: https://assetstore.unity.com/publishers/39058
+  - heading:  Need help ?
+    text: If you need support, if you notice a bug or simply have a question; please write to us, we will be glad to help you.
+    linkText: Ask for help
+    url: https://connect.unity.com/u/the-tales-factory

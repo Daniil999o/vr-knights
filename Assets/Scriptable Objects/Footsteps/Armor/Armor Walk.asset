@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45a5031083e54b7b94075ffc5a4681c6, type: 3}
+  m_Name: Armor Walk
+  m_EditorClassIdentifier: Assembly-CSharp::Player_System.Audio.Misc.AudioPack
+  clips:
+  - {fileID: 8300000, guid: 6749157a35712b14cbc3e3e8c289d298, type: 3}
+  - {fileID: 8300000, guid: b98b642b88d7d1f44abe0cbc096f4650, type: 3}
+  - {fileID: 8300000, guid: 71205bb49084d2f48b0b95303551b794, type: 3}
+  - {fileID: 8300000, guid: 60dbceae20afd4940b68ebc517cfc9a5, type: 3}
+  - {fileID: 8300000, guid: c9f03b49cef897548bb5d7dda4c2af9a, type: 3}
+  - {fileID: 8300000, guid: d21c6fd569ea71d4bbd3e288b1c8bafa, type: 3}
+  - {fileID: 8300000, guid: f0eaf6966e51fea41b8305dd46a07277, type: 3}
+  - {fileID: 8300000, guid: 3819b18b0599439468606338cbfb28ae, type: 3}
+  - {fileID: 8300000, guid: 62bf6b32c75501745939b62fd9d8aab5, type: 3}
+  - {fileID: 8300000, guid: ae9a3deb9c207d7479190881f790f22f, type: 3}
+  - {fileID: 8300000, guid: 8a3c503f5c15dd8449a5e494eb24f306, type: 3}
+  - {fileID: 8300000, guid: 0b176bf4586087d40895292ca2c2ea2e, type: 3}
+  - {fileID: 8300000, guid: 298c539855815614089bc1c51d83ed20, type: 3}
+  - {fileID: 8300000, guid: ccadbcfeda21e384c90b3892ff02dad3, type: 3}
+  - {fileID: 8300000, guid: 55a8c5fe4f440c4448fd184b9b0f721d, type: 3}
+  - {fileID: 8300000, guid: 3f381bdb17771044785fe0552693d507, type: 3}
+  - {fileID: 8300000, guid: e618000b57f914747ab7b1d2a06be3c6, type: 3}
+  - {fileID: 8300000, guid: dd228281ecec65b4998c990e8a550a90, type: 3}
+  - {fileID: 8300000, guid: 8ffdfe01e85f6234a87330a69266ba42, type: 3}
+  - {fileID: 8300000, guid: 56ba50ccb4a819a4c83a9fa5f8d047b2, type: 3}
+  - {fileID: 8300000, guid: 2f3dfe7c180ebf74ea8b167d09352132, type: 3}
+  - {fileID: 8300000, guid: 1292c58b93f8ed948b654bc2e163bfcc, type: 3}

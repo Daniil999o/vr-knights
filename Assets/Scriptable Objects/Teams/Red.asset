@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85925ec252ef4293903e927050a087a8, type: 3}
+  m_Name: Red
+  m_EditorClassIdentifier: Assembly-CSharp::Teams.Scriptable_Objects.TeamDataSO
+  name: Red
+  uniformMaterial: {fileID: 2100000, guid: 7f575f522ac87ba4b9caea9cfa4f68f9, type: 2}
+  uniformLowMaterial: {fileID: 2100000, guid: 3865ef94b9040e24986178e376f39b53, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d07bdcfdddb34d2db9263222095c48f0, type: 3}
+  m_Name: Longsword
+  m_EditorClassIdentifier: Assembly-CSharp::HandWeaponProfileSO
+  defaultDamage: 25
+  stubbingModifier: 50
+  defaultForce: 15
+  armorPenetration: 0
+  maxDamage: 50
+  maxForce: 60
+  maxIntersectionsCount: 1
+  poseData: {fileID: 11400000, guid: f1a35bffe7bd8534c836e3fe5492e82c, type: 2}
+  attackSettings:
+    windupVerticalZone: 0.7
+    windupHorizontalZone: 0.7
+    inputSmoothTime: 2
+    windupSpeed: 6
+    strikeSpeed: 14
+    thrustWindupSpeed: 7
+    thrustStrikeSpeed: 35
+    returnToIdleSpeed: 1.5
+    blockSpeed: 12

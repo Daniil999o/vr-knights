@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ef6207655344f58912ae56f2cd655be, type: 3}
+  m_Name: Melee NPC
+  m_EditorClassIdentifier: Assembly-CSharp::NPC.Scriptable_Objects.NPC_Settings
+  walkSpeed: 1.5
+  runSpeed: 5
+  acceleration: 4
+  walkAngular: 120
+  runAngular: 260
+  speedSmooth: 4
+  angularSmooth: 15
+  rotateToAttackSpeed: 80
+  playAttackMinMaxDistance: {x: 2.5, y: 8}
+  distanceToRun: 3
+  distanceToAttack: 1.7
+  autoBraking: 1
+  stoppingDistance: 1
+  meleeAttacksCount: 6
+  blockChanceAfterAttack: 0.25
+  minMaxBlockTimer: {x: 0.5, y: 3}
+  strafeDistance: 3
+  backstepDistance: 2
+  strafeSpeed: 2.5
+  backstepSpeed: 2
+  lungeSpeed: 3
+  sidestepPhase1Time: 0.5
+  pingPongBackstepTime: 0.5
+  followPatternChangeInterval: 5
+  flankCircleRadius: 2
+  sprintFlankRadius: 1.5
+  dodgeStrafeDistance: 2
+  dodgeStrafeSpeed: 4
+  minDistanceToStrafes: 5
+  flankSpeed: 6
+  sprintFlankSpeed: 6
+  blockBackstepSpeed: 1.3
+  blockBackstepDistance: 3
+  blockStrafeSpeed: 2.2
+  blockStrafeDistance: 3
+  blockStrafeChangeTime: 1.5
